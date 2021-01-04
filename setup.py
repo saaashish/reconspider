@@ -1,6 +1,5 @@
 from setuptools import setup
 import os
-import pip
 
 fout = open("core/config.py", "w")
 fout.write("shodan_api = " + '"' + "C23OXE0bVMrul2YeqcL7zxb6jZ4pj2by" + '"' + "\n")
